@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\raibr\\AndroidStudioProjects\\Localization\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sv-rSE\\values-sv-rSE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\raibr\\AndroidStudioProjects\\Localization\\app\\src\\main\\res\\values-sv-rSE\\strings.xml",
+                    "from": {
+                        "startLines": "-1,4,-1,5",
+                        "startColumns": "-1,4,-1,4",
+                        "startOffsets": "-1,164,-1,211",
+                        "endColumns": "-1,45,-1,61",
+                        "endOffsets": "-1,205,-1,268"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,105,151,206",
+                        "endColumns": "49,45,54,61",
+                        "endOffsets": "100,146,201,263"
+                    }
+                }
+            ]
+        }
+    ]
+}

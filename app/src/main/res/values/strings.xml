@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="greeting">Hello and welcome!</string>
+    <string name="button_text">Press me</string>
+    <string name="new_greeting">Hello There %1$s!</string>
+
+</resources>

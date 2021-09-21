@@ -1,0 +1,2 @@
+com/example/localization/BuildConfig.java
+ com.example.localization.BuildConfig
